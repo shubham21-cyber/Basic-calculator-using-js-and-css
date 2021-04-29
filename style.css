@@ -1,0 +1,43 @@
+body{
+    background-image: url("ssds.jpg")
+}
+.div1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    border: 3px solid white
+}
+.div1:hover{
+    background-color: rgb(0, 0, 0,0.5);
+}
+.h1{
+    background-color: red;
+    text-align: center;
+    color: yellow;
+    width: 500px;
+    margin: auto;
+}
+
+label {
+    width:180px;
+    clear:left;
+    text-align:right;
+    padding-right:30px;
+}
+
+input, label {
+    float:left;
+}
+
+button{
+color: white;
+background-color: rgb(4, 0, 255);
+padding: 0px 55px;
+text-align: center;
+font-size: 20px;
+border-radius: 8px;
+margin-right: 30px
+
+}
+
